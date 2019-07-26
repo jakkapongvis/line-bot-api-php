@@ -1,6 +1,6 @@
  <?php
 	function pubMqtt($topic,$msg){
-		$APPID= "LineBotLED/"; //enter your appid
+		$APPID= "jakkapong/"; //enter your appid
 		$KEY = "7K5NiPdiUso5iZN"; //enter your web key
 		$SECRET = "IzRAWA2BbLMZcOGdqV9zEbjni"; //enter your secret
 		$Topic = "$topic";
